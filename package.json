@@ -1,0 +1,11 @@
+{
+  "name": "pick-lines",
+  "version": "0.1.0",
+  "description": "pick lines from input interactively",
+  "bin": "pick-lines.sh",
+  "author": "xixixao",
+  "license": "MIT",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
